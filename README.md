@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá Mundo, eu sou o Gabriel Kalliu 👋
 
-<!--
-**GabrielKalliu/GabrielKalliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-end Developer com foco em migração para Back-end
 
-Here are some ideas to get you started:
+🎯 Em constante evolução, construindo projetos práticos e bem documentados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias & Estudos
+
+🌱 Atualmente estudando JavaScript (Back-end)
+
+🎨 Front-end: HTML | CSS | JavaScript
+
+🔧 Versionamento: Git & GitHub
+
+📚 Próximos passos: APIs, banco de dados e autenticação
+
+📫 Vamos trocar ideia?
+Aqui você vai encontrar meus projetos e minha evolução como dev 🚀
