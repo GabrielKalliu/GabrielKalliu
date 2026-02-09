@@ -1,4 +1,4 @@
-## Oiii, eu sou o Gabriel Kalliu 👋  
+## Oi, eu sou o Gabriel Kalliu 👋  
 
 💻 Desenvolvedor **Front-end** com foco em transição para **Back-end**  
 🚀 Construindo projetos práticos e documentando minha evolução como dev  
